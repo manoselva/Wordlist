@@ -9,8 +9,7 @@ Useful for tools like `dirsearch`, `ffuf`, `gobuster`, `feroxbuster`, `subfinder
 
 ### 🔹 General Directory Bruteforce
 
-* **dicc.txt (dirsearch default list)**
-  [https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt](https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt)
+*[https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt](https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt)
 
 ---
 
