@@ -1,7 +1,3 @@
-Here’s a **clean, simple, table-based version** using emojis and minimal clutter:
-
----
-
 # 🗂️ Wordlists Collection
 
 A clean collection of useful wordlists for **directory brute-forcing**, **parameter fuzzing**, and **subdomain enumeration**.
@@ -11,7 +7,7 @@ A clean collection of useful wordlists for **directory brute-forcing**, **parame
 ## 📁 General Wordlists
 
 | 🔹 Category          | 📄 Wordlist                                                                                                                                            |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Directory Bruteforce | [https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt](https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt) |
 
 ---
