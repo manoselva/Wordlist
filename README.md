@@ -18,18 +18,15 @@ Useful for tools like `dirsearch`, `ffuf`, `gobuster`, `feroxbuster`, `subfinder
 
 ### 🟦 PHP Applications
 
-* **HTTPArchive PHP Wordlist (2020-11-18)**
-  [https://wordlists-cdn.assetnote.io/data/automated/httparchive_php_2020_11_18.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_php_2020_11_18.txt)
+*   [https://wordlists-cdn.assetnote.io/data/automated/httparchive_php_2020_11_18.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_php_2020_11_18.txt)
 
 ### 🟩 ASP / ASPX / CFM / SVC / ASHX / ASMX
 
-* **HTTPArchive ASP & Related Extensions (2020-11-18)**
-  [https://wordlists-cdn.assetnote.io/data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2020_11_18.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2020_11_18.txt)
+* [https://wordlists-cdn.assetnote.io/data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2020_11_18.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2020_11_18.txt)
 
 ### ☕ Java Applications
 
-* **HTTPArchive Java (JSP, JSPA, DO, ACTION) (2022-08-28)**
-  [https://wordlists-cdn.assetnote.io/data/automated/httparchive_jsp_jspa_do_action_2022_08_28.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_jsp_jspa_do_action_2022_08_28.txt)
+* [https://wordlists-cdn.assetnote.io/data/automated/httparchive_jsp_jspa_do_action_2022_08_28.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_jsp_jspa_do_action_2022_08_28.txt)
 
 ---
 
@@ -37,8 +34,7 @@ Useful for tools like `dirsearch`, `ffuf`, `gobuster`, `feroxbuster`, `subfinder
 
 ### 🏷️ Top Parameters from 1M Websites
 
-* **HTTPArchive Parameters (2020-11-21)**
-  [https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2020_11_21.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2020_11_21.txt)
+*[https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2020_11_21.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2020_11_21.txt)
 
 ---
 
@@ -46,8 +42,7 @@ Useful for tools like `dirsearch`, `ffuf`, `gobuster`, `feroxbuster`, `subfinder
 
 ### 🧭 Subdomain Brute-Force
 
-* **HTTPArchive Subdomains (2020-11-18)**
-  [https://wordlists-cdn.assetnote.io/data/automated/httparchive_subdomains_2020_11_18.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_subdomains_2020_11_18.txt)
+* [https://wordlists-cdn.assetnote.io/data/automated/httparchive_subdomains_2020_11_18.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_subdomains_2020_11_18.txt)
 
 ---
 
