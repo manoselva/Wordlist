@@ -1,7 +1,6 @@
 # 🗂️ Wordlists Collection
 
 A curated collection of high-quality wordlists for **directory brute-forcing**, **parameter fuzzing**, and **subdomain enumeration**.
-Useful for tools like `dirsearch`, `ffuf`, `gobuster`, `feroxbuster`, `subfinder`, and others.
 
 ---
 
