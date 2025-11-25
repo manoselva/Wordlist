@@ -1,9 +1,3 @@
-# 🗂️ Wordlists Collection
-
-A clean collection of useful wordlists for **directory brute-forcing**, **parameter fuzzing**, and **subdomain enumeration**.
-
----
-
 ## 📁 General Wordlists
 
 |  Category          |  Wordlist                                                                                                                                            |
