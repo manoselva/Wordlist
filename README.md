@@ -24,7 +24,7 @@ A clean collection of useful wordlists for **directory brute-forcing**, **parame
 
 ## 🔧 Parameters Wordlists
 
-| 🏷️ Description                 |  Wordlist                                                                                                                                                                                      |
+|  Description                 |  Wordlist                                                                                                                                                                                      |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Top Parameters from 1M Websites | [https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2020_11_21.txt](https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2020_11_21.txt) |
 
